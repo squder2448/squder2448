@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Soy un desarrollador de software en constante aprendizaje, con interés en JavaScript y Python. Me encanta crear soluciones tecnológicas y explorar nuevas herramientas para mejorar mi desarrollo profesional.</p>
+<p align="left">Soy un desarrollador de software en constante aprendizaje, me especializo en JavaScript y Python. Me encanta crear soluciones tecnológicas y explorar nuevas herramientas para mejorar mi desarrollo profesional.</p>
 
 ###
 
@@ -24,8 +24,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
   <img width="12" />
