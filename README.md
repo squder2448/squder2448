@@ -6,7 +6,17 @@
 
 ###
 
-<p align="left">Soy un desarrollador de software en constante aprendizaje, me especializo en JavaScript y Python. Me encanta crear soluciones tecnológicas y explorar nuevas herramientas para mejorar mi desarrollo profesional.</p>
+Desarrollador Fullstack enfocado en construir soluciones web modernas y funcionales. Trabajo con tecnologías como **JavaScript, React, Node.js, Python** y también desarrollo sitios con **WordPress y Elementor**.  
+
+- Desarrollo de sitios reales para clínicas y fundaciones  
+- Proyectos personales con APIs, MongoDB y backend en Node.js  
+- En constante aprendizaje a través de Platzi y práctica autodidacta  
+- Nivel de inglés B1 – Lectura técnica y conversación básica  
+
+**Tecnologías clave:**  
+React, Node.js, Express, Python, MongoDB, Git, WordPress, Tailwind CSS, HTML5, CSS3
+
+¡Conectemos y construyamos algo genial!
 
 ###
 
